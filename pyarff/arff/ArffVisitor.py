@@ -1,9 +1,6 @@
 #!/usr/bin/python
 # Filename: ArffVisitor.py
 
-version = "0.1"
-author = "Diego Dayan"
-
 class ArffFileVisitor:
 	
 	def __init__(self, arff):

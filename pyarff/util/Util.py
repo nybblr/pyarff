@@ -1,6 +1,3 @@
-__author__ = "Diego Dayan"
-__version__ = "0.1"
-
 def fileExists(filename):
     try:
         open(filename)

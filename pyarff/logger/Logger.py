@@ -2,7 +2,6 @@ __author__ = "Diego Dayan"
 __version__ = "0.1"
 
 import time
-from src.config.Config import *
 
 class Logger(object):
     isEnabled = True

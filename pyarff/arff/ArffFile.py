@@ -1,8 +1,3 @@
-__author__ = "Diego Dayan"
-__version__ = "0.1"
-
-from src.config.Config import *
-
 class ArffAttribute(object):
     """
     Name can be any alphanumerical value

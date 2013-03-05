@@ -1,6 +1,3 @@
-__author__ = "Diego Dayan"
-__version__ = "0.1"
-
 class ArffIntegrityChecker:
     def __init__(self, arff):
         self._arff = arff

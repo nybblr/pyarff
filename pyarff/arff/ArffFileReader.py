@@ -1,8 +1,4 @@
-__author__ = "Diego Dayan"
-__version__ = "0.1"
-
-from src.config.Config import *
-from src.arff.ArffFile import *
+from .ArffFile import *
 
 class ArffFileReader(object):
     def __init__(self, filename):

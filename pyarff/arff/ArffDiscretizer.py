@@ -1,6 +1,3 @@
-__author__ = "Diego Dayan"
-__version__ = "0.1"
-
 class ArffDiscretizer:
 	
 	def __init__(self, arff):
